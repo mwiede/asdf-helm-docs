@@ -7,7 +7,7 @@
 ## Install
 
 ```
-asdf plugin-add helm-docs https://github.com/sudermanjr/asdf-helm-docs.git
+asdf plugin add helm-docs https://github.com/sudermanjr/asdf-helm-docs.git
 ```
 
 ## Use
